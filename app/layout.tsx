@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { Inter, Noto_Serif, Source_Code_Pro } from 'next/font/google';
-import './globals.css';
+import '../styles/globals.css';
 
 const inter = Inter({
   variable: '--font-inter',
